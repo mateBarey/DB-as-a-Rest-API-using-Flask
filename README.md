@@ -2,7 +2,7 @@
 
 Created Database as a rest api using flask and mongodb (nosql) and docker.
 
-A user registers and gets 10 tokens and when he stores a sentence, a token is taken is taken away, and then for retrieving a 
+A user registers and gets 10 tokens and when he stores a sentence, a token is taken is taken away, and then for retrieving
 
-sentence a token is also taken away.
+a sentence a token is also taken away.
 
